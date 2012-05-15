@@ -1,0 +1,2 @@
+This is my implementation of the kmeans algorithm and clustering the data using
+Gaussian probabilities. The data_X files hold the data for the project.
